@@ -6,3 +6,5 @@ MATHEMATICS OF THE FARADAY CAGE, S. JONATHAN CHAPMAN, DAVID P. HEWETT, AND LLOYD
 python code is adapted from the matlab code for fun
 
 Trefethen's paper demonstated that (even just in 2D) the electric field is not exponentially small inside the cage but decays only algebrically. 
+
+![](cagetest.png)
